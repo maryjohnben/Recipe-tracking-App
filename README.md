@@ -6,4 +6,12 @@
 The project is only available locally. Please Clone the project to run it locally.
   
   Project focuses on frontend components and data is directlg fed go showcase it's React functionality. Please see backend projects or full stack projects to see other works. 
+  
+  
 </p>
+
+##### To run repo locally
+- **Fork** repo
+- **Clone** into local system
+- **npm install** 
+- **npm start** to start the server on http://localhost:5000
