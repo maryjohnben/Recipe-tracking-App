@@ -5,7 +5,7 @@
 <br>
 The project is only available locally. Please fork/clone the project to run it locally.
   
-  Project focuses on frontend components and data is directly fed go showcase it's React functionality. 
+  Project focuses on frontend components and data is directly fed to showcase the React functionality of the project. Fully integrated backend is missing for this project. 
   <br>
 Please see backend projects or full stack projects to see other works. 
   
