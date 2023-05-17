@@ -7,7 +7,7 @@ The project is only available locally. Please fork/clone the project to run it l
   
   Project focuses on frontend components and data is directly fed to showcase the React functionality of the project. Fully integrated backend is missing for this project. 
   <br>
-Please see backend projects or full stack projects to see other works. 
+Please see other backend projects or full stack projects to see other backend works. 
   
   
 </p>
